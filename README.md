@@ -48,6 +48,9 @@ Potential future improvements include:
 2. **Sparse Data Handling**: Adapting the network to better reconstruct images from incomplete sinograms.
 3. **Real-World Dataset Application**: Applying the model to real-world CT or MRI datasets, optimizing for specific applications.
 
+## Colab Link
+You can access and edit the project in [Google Colab](https://colab.research.google.com/drive/1sLeYY8wmJ9_BOyu81I6JphxGDXCWTA7s?usp=drive_link).
+
 ## References
 - [Radon Transform Theory and Applications](https://example.com/radon_theory)
 - [Convolutional Neural Networks for Image Reconstruction](https://example.com/cnn_reconstruction)
@@ -55,3 +58,4 @@ Potential future improvements include:
 ---
 
 This README provides a comprehensive overview of the project, its objectives, methods, results, and applications.
+
